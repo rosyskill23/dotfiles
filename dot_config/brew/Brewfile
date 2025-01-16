@@ -1,0 +1,14 @@
+tap "homebrew/bundle"
+
+# Utils
+brew "fzf"
+brew "starship"
+
+# Charm
+brew "gum"
+brew "glow"
+
+# Helix
+brew "helix"
+brew "taplo" # TOML
+brew "bash-language-server" # Bash
